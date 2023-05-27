@@ -6,3 +6,5 @@ After the second click on the button, the color turns green, then again red.
 
 //Bonus
 The button colors will automatically change every 10 seconds in the specified order.
+
+Result: https://alexandrulog.github.io/ButonSemafor/
