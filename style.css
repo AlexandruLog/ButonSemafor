@@ -4,25 +4,3 @@
   top: 50%;
   transform: translate(-50%, -50%);
 }
-
-header h1 {
-  visibility: hidden;
-}
-
-@media screen and (orientation: landscape) {
-  html {
-    background-color: #1e1e1e;
-  }
-
-  header {
-    height: 50px;
-    background-color: #1a1a1a;
-  }
-
-  header h1 {
-    width: max-content;
-    margin: 0 auto;
-    color: white;
-    visibility: visible;
-  }
-}
